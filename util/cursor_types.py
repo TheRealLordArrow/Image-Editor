@@ -1,0 +1,20 @@
+PAINT = {"size": (16, 16),
+         "hotspot": (8, 8),
+         "strings": (
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "XXXXXXXXXXXXXXX ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "       X        ",
+             "                "
+         )}
